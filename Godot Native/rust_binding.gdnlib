@@ -1,11 +1,9 @@
 [entry]
 
-UWP.64="res://target/release/sound_effights_research.dll"
 Windows.64="res://target/release/sound_effights_research.dll"
 
 [dependencies]
 
-UWP.64=[  ]
 Windows.64=[  ]
 
 [general]

@@ -18,7 +18,7 @@ _global_script_class_icons={
 config/name="Sound Effights Research"
 config/description="This is an example showing how one can record audio from
 the microphone and later play it back or save it to a file."
-run/main_scene="res://MicRecord.tscn"
+run/main_scene="res://Mic Record Demo/MicRecord.tscn"
 config/icon="res://icon.png"
 
 [audio]
