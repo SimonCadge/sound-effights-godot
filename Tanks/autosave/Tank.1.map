@@ -1,0 +1,39 @@
+// Game: Qodot
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( -208 -16 16 ) ( -208 -160 0 ) ( -208 -16 0 ) __TB_empty 0 0 0 1 -1
+( 112 -256 0 ) ( -112 -256 16 ) ( 112 -256 16 ) __TB_empty 0 0 0 1 -1
+( 112 -16 0 ) ( -112 -160 0 ) ( 112 -160 0 ) __TB_empty 0 0 0 1 1
+( -112 -160 16 ) ( 112 -16 16 ) ( 112 -160 16 ) __TB_empty 0 0 0 1 1
+( 112 256 16 ) ( -112 256 0 ) ( 112 256 0 ) __TB_empty 0 0 0 1 -1
+( 240 -16 16 ) ( 240 -160 0 ) ( 240 -160 16 ) __TB_empty 0 0 0 1 -1
+}
+}
+// entity 1
+{
+"classname" "func_group"
+"_tb_type" "_tb_group"
+"_tb_name" "Spawn Points"
+"_tb_id" "5"
+}
+// entity 2
+{
+"classname" "spawn_point"
+"origin" "-184 168 24"
+"_tb_group" "5"
+}
+// entity 3
+{
+"classname" "spawn_point"
+"origin" "168 -120 24"
+"_tb_group" "5"
+}
+// entity 4
+{
+"classname" "spawn_point"
+"origin" "32 0 68"
+}
